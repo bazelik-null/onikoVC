@@ -8,7 +8,7 @@ import { Devs } from "@utils/constants";
 import definePlugin from "@utils/types";
 
 export default definePlugin({
-    name: "oniko",
+    name: "oNiko",
     description: "Just Niko follows your mouse (Sprites from OneShot)",
     // Listing adryd here because this literally just evals her script
     authors: [{ name: "bazelik143", id: 1247930315603705898 }],
